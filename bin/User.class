@@ -1,0 +1,7 @@
+Êþº¾   4   User  java/lang/Object 	ipAddress Ljava/lang/String; 	loginTime Ljava/util/Date; 	bandwidth Ljava/lang/Long; 
+statusCode Ljava/lang/Integer; url <init> ()V Code
+     LineNumberTable LocalVariableTable this LUser; 
+SourceFile 
+Features.java                      	 
+           
+             /     *· ±           §                  
