@@ -1,0 +1,10 @@
+/shuttle/technology/sts-newsref/sts_asm.html
+/
+/images/dual-pad.gif
+/shuttle/missions/sts-70/images/KSC-95EC-1013.jpg
+/shuttle/missions/51-l/mission-51-l.html
+/images/launchpalms-small.gif
+/history/apollo/
+/shuttle/technology/images/sts_spec_6-small.gif
+/shuttle/countdown/
+/history/mercury/mercury.html
